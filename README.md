@@ -1,1 +1,1 @@
-# Airline-fare-prices-prediction
+Dataset that consists of 10683 records of flights information for different airline and we are trying to use Machine learning algorith model to predict prices for every flight based on specific features that we can reflect to users.
